@@ -1,4 +1,4 @@
-# ch17-lab2: N Queen
+# ch17-lab3: N Queen
 from itertools import permutations
 import time
 

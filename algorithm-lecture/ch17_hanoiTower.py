@@ -1,4 +1,4 @@
-# ch17-lab1: 하노이 탑
+# ch17-lab2: 하노이 탑
 
 move = 0
 res = 0

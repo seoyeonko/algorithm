@@ -1,4 +1,4 @@
-# ch17-lab3: 여러 개의 구간에서 최소값 찾기
+# ch17-lab4: 여러 개의 구간에서 최소값 찾기
 
 import random
 random.seed(100)
